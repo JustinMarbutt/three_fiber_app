@@ -1,0 +1,54 @@
+newmtl Material 1_9c4301f6-dff7-47ae-9c12-64884c34e7e5
+Kd 0.067 0.400 0.106
+d 1.000
+newmtl Material 2_b600b3d6-66db-4b77-ae23-a5886942f11e
+Kd 0.439 0.357 0.216
+d 1.000
+newmtl Material 3_2778b7ef-af81-43a3-8dea-38070c8fa999
+Kd 0.380 0.275 0.137
+d 1.000
+newmtl Material 4_3e35d765-d433-4fd3-b53b-4cb856400dca
+Kd 0.361 0.314 0.141
+d 1.000
+newmtl Material 7_eac03a82-d09a-41ee-8462-b3631e3fd03c
+Kd 0.388 0.310 0.208
+d 1.000
+newmtl Material 8_7abf82bb-8286-4b23-b8a0-7c9118013465
+Kd 0.820 0.647 0.302
+d 1.000
+newmtl Material 9_f509da8f-c600-4de7-8060-3ce2217bd0cc
+Kd 0.482 0.639 0.204
+d 1.000
+newmtl Material 11_3eb0876f-e696-4d74-9ae9-62972178bb5b
+Kd 0.412 0.690 0.129
+d 1.000
+newmtl Material 12_f1cd6706-6271-4c36-842e-6a4c6dee33ae
+Kd 0.412 0.302 0.094
+d 1.000
+newmtl Material 13_039f51ee-a154-4abd-8bcf-965d0338119a
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 16_0bf8f248-3749-46c0-a666-f0436666b71a
+Kd 0.455 0.588 0.459
+d 1.000
+newmtl Material 15_bd5373c4-bad6-41f6-8689-3d80fd02d31b
+Kd 0.459 0.373 0.125
+d 1.000
+newmtl Material 17_767f6e4b-75ac-4fc3-b735-9455e5a30e15
+Kd 0.671 0.671 0.671
+d 1.000
+newmtl Default material_258d13b0-4d40-423b-89c9-5f2f02568ab8
+Kd 0.118 0.447 0.780
+d 1.000
+newmtl Material 18_7de0b2df-76d7-412a-a9d9-6ca1df85fbd3
+Kd 0.361 0.294 0.180
+d 1.000
+newmtl Material 19_49520ada-53c9-40e3-aadf-2d4daf8ed349
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 20_9ee39d6a-192e-47f9-aede-9c08093beaf9
+Kd 0.875 1.000 0.310
+d 1.000
+newmtl Layer material_961486aa-199f-4e33-846c-68e4f053f5c7
+Kd 0.439 0.357 0.216
+d 1.000

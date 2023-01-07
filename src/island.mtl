@@ -1,0 +1,69 @@
+newmtl Default material_08a5e9b9-b285-4880-a8ea-6c07c80bc16d
+Kd 0.839 0.839 0.839
+d 1.000
+newmtl Material 7_3e2de77b-5faf-4a8c-a199-e667dea3d5fb
+Kd 0.839 0.839 0.839
+d 1.000
+newmtl Material 3_35e07dcc-8a17-4850-877f-2348b561364f
+Kd 0.749 0.749 0.749
+d 1.000
+newmtl Material 2_c5cfba05-165e-4d98-84b7-9d04117f3327
+Kd 0.839 0.839 0.839
+d 1.000
+newmtl Main building_4cb91fbd-9368-4aa9-bb6d-87a1445a13b1
+Kd 0.294 0.400 0.580
+d 1.000
+newmtl Roof_6b71ea21-14b1-4180-89af-e36aed7ac257
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl White material_ce670209-e422-48fd-9732-11796f46f9f7
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Window glass_d18f0718-e4b9-415f-9fc7-d70a7f517d1e
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Pink Stripes_18fe0880-a4ed-4dcc-bb58-f924577fd8d4
+Kd 0.961 0.510 0.510
+d 1.000
+newmtl White Stripes_77f03776-50f0-4388-abf7-17ad1b36185b
+Kd 0.929 0.929 0.929
+d 1.000
+newmtl Palm trunk 2_6f9490b1-81cb-4227-93ab-eb2fd54713a3
+Kd 0.722 0.467 0.180
+d 1.000
+newmtl Ground_97aa6ab5-26ee-46c1-b6fb-5d03cd511715
+Kd 0.969 0.729 0.455
+d 1.000
+newmtl Palm Leaves_db613269-ebea-45a4-b58f-163a627b05db
+Kd 0.620 0.788 0.000
+d 1.000
+newmtl Palm trunk 1_94a5f406-3f70-4097-ba91-d982ca4b360e
+Kd 0.741 0.522 0.235
+d 1.000
+newmtl Palm leaves 1_7a78ba44-87eb-46a6-8cdd-18651e03b808
+Kd 0.608 0.831 0.000
+d 1.000
+newmtl Sand 1_6f3b8dd9-a506-4b7e-87d2-877b9566eec2
+Kd 0.910 0.741 0.400
+d 1.000
+newmtl Palm trunk_fc8ff424-4b31-422c-a053-d235ec8df975
+Kd 0.741 0.522 0.235
+d 1.000
+newmtl Palm leaves_03fcb2b4-f2c9-4646-a045-7d86f4316fa9
+Kd 0.608 0.831 0.000
+d 1.000
+newmtl Sand_a6aed5cd-7e73-48e6-aa44-bb70692a1fd2
+Kd 0.910 0.741 0.400
+d 1.000
+newmtl Material 1_46506f0e-a93e-4823-a248-96e73862cb2a
+Kd 0.761 0.702 0.380
+d 1.000
+newmtl Material 4_6b66c50c-1ef6-43c4-ae4b-e422d315cfa3
+Kd 0.620 0.620 0.620
+d 1.000
+newmtl Material 5_a972231c-a5de-422b-9ec9-1a816b2affcd
+Kd 0.239 0.275 0.678
+d 1.000
+newmtl Material 6_7b38e85a-7160-465c-ab17-3080e750f139
+Kd 0.251 0.808 0.482
+d 1.000
