@@ -1,7 +1,7 @@
 import { useThree } from '@react-three/fiber';
 import { OrbitControls, Stars, Sky } from '@react-three/drei';
 // import { FlyControls } from "@react-three/drei";
-import { Boat, LargeIsland, SmallIsland, PinkFloat } from "./Models";
+import { Boat, LargeIsland, SmallIsland } from "./Models";
 import { Tetra, Ball, Box } from "./Shapes";
 import Ocean from "./Ocean";
 import './App.css';
@@ -23,7 +23,6 @@ function Scene() {
         <Box />
         <Ball />
         <Tetra />
-        {/* <PinkFloat /> */}
         <Boat />
         <SmallIsland />
         <LargeIsland />

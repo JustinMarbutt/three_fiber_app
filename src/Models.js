@@ -2,8 +2,6 @@ import React, { useRef } from "react";
 import { useFrame } from '@react-three/fiber';
 import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader';
 import { MTLLoader } from 'three/examples/jsm/loaders/MTLLoader';
-import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
-import { useGLTF } from "@react-three/drei";
 import { useLoader } from '@react-three/fiber';
 import boatMat from './jboat.mtl';
 import boatObj from './jboat.obj';
@@ -11,8 +9,6 @@ import islandObj from './island.obj';
 import islandMat from './island.mtl';
 import islandObj2 from './jisland.obj';
 import islandMat2 from './jisland.mtl';
-import floatObj from './float.glb';
-import GLBModel from  './GLBModel'
 
 
 function Boat() {
@@ -63,12 +59,6 @@ function LargeIsland() {
   );
 }
 
-function PinkFloat() {
-  return (
-    <GLBModel />
-  )
-}
-
 function SmallIsland() {
     const islandSkin2 = useLoader(MTLLoader, islandMat2);
     const island2 =  useLoader(OBJLoader, islandObj2, (loader) => {
@@ -89,6 +79,5 @@ function SmallIsland() {
 export {
   Boat,
   SmallIsland,
-  LargeIsland,
-  PinkFloat
+  LargeIsland
 }
