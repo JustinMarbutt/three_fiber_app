@@ -4,8 +4,6 @@ A quick demo I created to play with the Three JS Fiber library for React.
 
 Has some basic shapes, a few objects, and some world elements like water and sky.
 
-Demo - https://justinmarbutt.github.io/three_fiber_app/
-
 ![chrome-capture-2023-2-21](https://user-images.githubusercontent.com/227549/226708335-63c8d515-6a08-41d2-996a-eb244b20ff26.png)
 
 
