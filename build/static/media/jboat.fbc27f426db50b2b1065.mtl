@@ -1,0 +1,30 @@
+newmtl Antenna_1ff0de46-cbe1-4016-9558-684bfe841627
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Antenna 2_4b73885a-f7d9-454c-ada7-0c72bb55d9ff
+Kd 0.380 0.380 0.380
+d 1.000
+newmtl Windows and periscope_e5e2c704-1d03-4c05-aab9-496329cf1c3c
+Kd 0.549 0.929 0.910
+d 1.000
+newmtl Metal parts_c9643d70-7c82-4e06-ad24-de943dfe38ff
+Kd 0.420 0.420 0.420
+d 1.000
+newmtl Ship_77fdee11-a01a-4987-a73b-70e35bcab207
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material.008_ee747ed1-7ab3-480d-bddf-5ca43e8d25c8
+Kd 0.376 0.376 0.380
+d 1.000
+newmtl Material.009_5a56f9fc-e411-4b2e-8b07-598f61866329
+Kd 0.722 0.114 0.114
+d 1.000
+newmtl Anchor_9e839a31-17a1-4c33-932e-125618ef2dc6
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Rescue wheel 2_b9a68139-d72b-4675-bf03-31b3ee912aa9
+Kd 0.831 0.000 0.000
+d 1.000
+newmtl Rescue wheel_6ffbbd9b-1948-43af-8235-d24717201d90
+Kd 1.000 1.000 1.000
+d 1.000
