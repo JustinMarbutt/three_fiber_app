@@ -23,9 +23,9 @@ function Scene() {
         <Box />
         <Ball />
         <Tetra />
-        <Boat />
+        {/* <Boat />
         <SmallIsland />
-        <LargeIsland />
+        <LargeIsland /> */}
         <Ocean />
         <Sky />
     </group>
